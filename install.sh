@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="v1.0.0"
+VERSION="1.0.0"
 REPO="duongess/khoaichain-sdk"
 
 echo "🔎 Checking system..."

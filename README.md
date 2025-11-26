@@ -7,7 +7,7 @@ A comprehensive toolkit for building, deploying, and managing Khoai Chain nodes 
 You can install the `khoai` CLI tool directly into your system using the following command. This will automatically detect your OS (Linux, macOS, or Windows Git Bash) and install the appropriate binary.
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/duongess/khoaichain-sdk/main/install.sh](https://raw.githubusercontent.com/duongess/khoaichain-sdk/main/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/duongess/khoaichain-sdk/main/install.sh | bash
 ````
 
 After installation, verify it by running:
